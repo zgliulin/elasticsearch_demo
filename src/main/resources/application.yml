@@ -1,0 +1,8 @@
+spring:
+  elasticsearch:
+    rest:
+      ip: 127.0.0.1
+      port: 9200
+      username: user
+      password: password
+
